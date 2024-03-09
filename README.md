@@ -9,7 +9,7 @@ It is a E-Learning website which provides functionality of registering in any co
 
 ```bash
 # clone repository
-https://github.com/savajapurva/E-Learning-MERN.git
+https://github.com/prashantc424/E-Learning-MERN.git
 
 # Install dependencies
 cd E-Learning-MERN && npm install
